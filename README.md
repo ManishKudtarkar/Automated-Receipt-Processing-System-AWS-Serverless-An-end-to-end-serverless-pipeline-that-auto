@@ -50,3 +50,29 @@ Processed data is formatted
 Email sent via SES with extracted details
 
 📸 Demo
+
+https://github.com/user-attachments/assets/e3965942-f226-435a-85ea-a9ca2a06399d
+
+📊 Impact
+Reduced manual effort by ~80%
+Improved accuracy in expense tracking
+Built a real-world automation pipeline using AWS
+🚀 Future Improvements
+Add OCR for scanned receipts (Textract)
+Build dashboard for analytics
+Store data in DynamoDB for querying
+Integrate AI for smarter extraction
+🧠 Learnings
+Hands-on experience with AWS serverless architecture
+Event-driven system design
+Real-world automation use case
+Cloud-based workflow optimization
+🤝 Connect With Me
+
+If you found this project interesting or want to collaborate:
+
+LinkedIn: www.linkedin.com/in/manish-kudtarkar
+GitHub: https://github.com/ManishKudtarkar
+⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
